@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="temaSemBarra" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/corPrimaria</item>
+        <item name="colorPrimaryDark">@color/corPrimaria</item>
+        <item name="colorAccent">@color/corAcentuada</item>
+    </style>
+
 </resources>
